@@ -36,7 +36,7 @@ const Header = () => {
                 isScrolled ? 'bg-gradient-to-r from-blue-500/20 to-teal-500/20' : 'bg-gradient-to-r from-white/20 to-teal-300/20'
               } blur-sm`}></div> */}
               <img 
-                  src="/public/ocusmart_logo.png" 
+                  src="/ocusmart_logo.png" 
                   alt="OcuSmart Logo" 
                   className="w-28 h-28 object-contain"
                 />

@@ -9,7 +9,7 @@ const Team = () => {
       description: 'Expert en chirurgie ophtalmologique avec une vision innovante de l\'intégration de l\'IA dans la pratique médicale. Garant de la validation scientifique et clinique de nos solutions.',
       icon: Stethoscope,
       gradient: 'from-blue-500 to-blue-600',
-      image: '/public/saidou_logo.jpeg',
+      image: '/saidou_logo.jpeg',
       linkedinUrl: 'https://www.linkedin.com/in/saidou-sow-980a78271/'
     },
     {
@@ -19,7 +19,7 @@ const Team = () => {
       description: 'Spécialiste en IA et deep learning appliqués à la santé. Architecte des solutions technologiques innovantes qui révolutionnent les soins ophtalmologiques.',
       icon: Brain,
       gradient: 'from-teal-500 to-teal-600',
-      image: '/public/pis.jpg',
+      image: '/pis.jpg',
       linkedinUrl: 'https://www.linkedin.com/in/papa-ibrahima-sow-3982a3175/'
     }
   ];
