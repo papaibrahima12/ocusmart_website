@@ -24,7 +24,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-20 h-20 bg-gradient-to-r from-blue-400 to-teal-400 rounded-full flex items-center justify-center shadow-2xl">
                 <img 
-                  src="/public/ocusmart_logo.png" 
+                  src="/ocusmart_logo.png" 
                   alt="OcuSmart Logo" 
                   className="w-16 h-16 object-contain"
                 />
